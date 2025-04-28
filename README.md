@@ -21,7 +21,7 @@
 
 <img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abir-Bhowmick007&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Abir-Bhowmick007&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Bhowmick007&layout=compact&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Bhowmick007&layout=compact"/>
 
 <p>My name is <strong><code>Abir Bhowmick</code></strong>.i'm passionate web and app developer</p>
 <h2><b>SKILL</b></h2>
