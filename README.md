@@ -1,7 +1,7 @@
 <div align="center" dir="auto">
 <h1 dir="auto"> Welcome to My Profile 💥 </h1>
 
-<a href="https://www.linkedin.com/in/abir-bhowmick-8443b224b/">
+<a href="https://www.linkedin.com/in/niloy-bhowmick-8443b224b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   
 </a>
