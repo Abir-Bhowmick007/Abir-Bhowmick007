@@ -19,7 +19,7 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abir-Bhowmick007&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Bhowmick007&layout=compact&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 <p>My name is <strong><code>Abir Bhowmick</code></strong>.i'm passionate web and app developer</p>
 <h2><b>SKILL</b></h2>
